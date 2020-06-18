@@ -1,0 +1,43 @@
+
+
+body{
+    background: #F1F1F1;
+    font-family: DM Sans;
+    font-style: normal;
+    font-weight: normal;
+}
+p{
+    text-align: justify;
+    color: #000000;
+    font-size: 1rem;
+    line-height: 22px;
+}
+h4{
+    text-align: center;
+}
+h6{
+    position: absolute;
+    width: 250px;
+    height: 23px;
+    left: 140px;
+    top: 183px;
+    /* background: linear-gradient(270deg, #FB3F5C 0%, 
+    #FC657D 80.86%); */
+    font-size: 13px;
+    line-height: 22px;
+    text-align: justify;
+    color: #FFFFFF;
+
+}
+a{
+    color: #FFFFFF;
+}
+.privacy{
+                  /* position: absolute; */
+                  width: 1400px;
+                  height: 264px;
+                  left: 0px;
+                  top: 100px;
+                  background: linear-gradient(270deg, 
+                  #FB3F5C 0%, #FC657D 80.86%);
+}
