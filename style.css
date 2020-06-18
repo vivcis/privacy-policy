@@ -19,8 +19,8 @@ h6{
     position: absolute;
     width: 250px;
     height: 23px;
-    left: 140px;
-    top: 183px;
+    margin-top: 7.5rem;
+    margin-left: 3rem;
     /* background: linear-gradient(270deg, #FB3F5C 0%, 
     #FC657D 80.86%); */
     font-size: 13px;
@@ -40,4 +40,15 @@ a{
                   top: 100px;
                   background: linear-gradient(270deg, 
                   #FB3F5C 0%, #FC657D 80.86%);
+}
+.policy{
+    padding: 2rem;
+    border: 1px groove #fff; 
+    border-radius: 11px;
+    box-shadow: 0px 2.76726px 2.21381px rgba(153, 153, 153, 0.0196802), 
+    0px 6.6501px 5.32008px rgba(153, 153, 153, 0.0282725), 
+    0px 12.5216px 10.0172px rgba(153, 153, 153, 0.035), 
+    0px 22.3363px 17.869px rgba(153, 153, 153, 0.0417275), 
+    0px 41.7776px 33.4221px rgba(153, 153, 153, 0.0503198), 
+    0px 100px 80px rgba(153, 153, 153, 0.07);
 }
